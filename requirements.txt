@@ -1,0 +1,7 @@
+python-chess
+pandas
+matplotlib
+requests
+imageio
+cairosvg
+notebook
